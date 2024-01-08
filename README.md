@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cathyfox
 - 👀 I’m interested in: everything I want to learn everything.
-- 🌱 I’m currently learning: html & css
+- 🌱 I’m currently learning: html & css & python
 - 💞️ I’m looking to collaborate on: anything and everything
 - 📫 How to reach me by emailing me : catheefox@gmail.com
 
